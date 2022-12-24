@@ -1,4 +1,1 @@
-import numpy as np
 
-size = 15
-omok_board = np.zeros([size,size])
